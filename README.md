@@ -1,3 +1,5 @@
+[![GitHub cover](https://github-cover.laurentnguyen.com)](https://laurent.ng/)
+
 ### Hi there 👋
 
 <!--
